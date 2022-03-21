@@ -516,6 +516,10 @@ svg {
 	background-color: var(--hover-color);
 }
 
+.social-links: {
+	margin-top: 20px;
+}
+
 .socials-footer .icon {
 	color: var(--secondary-text-color);
 }
