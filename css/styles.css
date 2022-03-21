@@ -516,7 +516,7 @@ svg {
 	background-color: var(--hover-color);
 }
 
-.social-links: {
+.socials-footer .social-links {
 	margin-top: 20px;
 }
 
